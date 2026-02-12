@@ -200,6 +200,3 @@ Run the notebooks in the following order:
 
 * **Author:** Ronit Shetty
 
-```
-
-```
