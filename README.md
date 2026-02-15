@@ -136,7 +136,7 @@ To understand user behavior beyond simple averages, I applied **Unsupervised Lea
 
 * **Algorithm:** K-Means Clustering (Spark MLlib).
 * **Features Used:**
-* total_orders` (Frequency) 
+* `total_orders` (Frequency) 
 * `avg_days_between_orders` (Recency) 
 * `avg_basket_size` (Monetary/Volume) 
 * `reorder_ratio` (Loyalty) 
@@ -199,4 +199,5 @@ Run the notebooks in the following order:
 ## 📬 Contact
 
 * **Author:** Ronit Shetty
+
 
